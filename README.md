@@ -1,4 +1,8 @@
-This was inspired by Casey Pugh's iPhone/iPad/iPod syncing logic: http://fncy.it/m5zIiT 
+
+Recently Played Albums
+======================
+
+This was inspired by [Casey Pugh's iPhone/iPad/iPod syncing logic](http://fncy.it/m5zIiT) 
 
 In Casey's post, he creates a playlist of the most recently played songs big enough to fill your device. I love the idea. However, I like to have the entire album on my device.
 
